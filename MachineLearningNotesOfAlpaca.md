@@ -42,4 +42,12 @@ Practical advice for applying learning algorithms.
 
 ## Chapter 1: Supervised learning & Unsupervised learning
 
-Supervised Learning: “right answers” given
+##### Supervised Learning: “right answers” given
+
++ **Regression:** Predict <u>continuous valued</u> output
+
++ **Classification:** <u>Discrete valued</u> output (0 or 1）
+
+##### Unsupervised Learning
+
++ clustering algorithm
